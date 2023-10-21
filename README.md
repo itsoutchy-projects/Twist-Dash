@@ -1,1 +1,1 @@
-# Twist Dash - Geometry Dash Mod
+# Twist Dash - Geometry Dash Fan game
