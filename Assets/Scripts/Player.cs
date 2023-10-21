@@ -65,7 +65,7 @@ public class Player : MonoBehaviour
                 }
             } else
             {
-                //rb.MovePosition(new Vector2(rb.position.x + (speed / 20), rb.position.y));
+                rb.MovePosition(new Vector2(rb.position.x + (speed / 20), rb.position.y));
             }
             
             if (Input.GetKeyDown(jump) || Input.GetKeyDown(jump2))
