@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fireLava.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="firelava0000" x="0" y="0" width="2108" height="648" frameX="-40" frameY="-2" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0001" x="2108" y="0" width="2182" height="732" frameX="-35" frameY="-3" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0002" x="4290" y="0" width="2221" height="764" frameX="-1" frameY="0" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0003" x="0" y="764" width="2267" height="754" frameX="0" frameY="-6" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0004" x="2267" y="764" width="2182" height="732" frameX="-35" frameY="-3" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0005" x="4449" y="764" width="2108" height="648" frameX="-40" frameY="-2" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0006" x="0" y="1518" width="2267" height="754" frameX="0" frameY="-6" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0007" x="2267" y="1518" width="2182" height="732" frameX="-35" frameY="-3" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0008" x="4449" y="1518" width="2108" height="648" frameX="-40" frameY="-2" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0009" x="0" y="2272" width="2267" height="754" frameX="0" frameY="-6" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0010" x="2267" y="2272" width="2182" height="732" frameX="-35" frameY="-3" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0011" x="4449" y="2272" width="2182" height="732" frameX="-35" frameY="-3" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0012" x="0" y="3026" width="2267" height="754" frameX="0" frameY="-6" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0013" x="2267" y="3026" width="2221" height="764" frameX="-1" frameY="0" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0014" x="4488" y="3026" width="2267" height="754" frameX="0" frameY="-6" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0015" x="0" y="3790" width="2182" height="732" frameX="-35" frameY="-3" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0016" x="0" y="0" width="2108" height="648" frameX="-40" frameY="-2" frameWidth="2267" frameHeight="764"/>
+	<SubTexture name="firelava0017" x="2108" y="0" width="2182" height="732" frameX="-35" frameY="-3" frameWidth="2267" frameHeight="764"/>
+</TextureAtlas>
